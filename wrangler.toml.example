@@ -1,6 +1,0 @@
-name = "custom-shortlinks"
-type = "javascript"
-account_id = ""
-workers_dev = false
-route = "shortlinks.example.com/*"
-zone_id = ""

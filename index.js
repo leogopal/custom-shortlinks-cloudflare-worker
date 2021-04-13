@@ -1,8 +1,8 @@
 const shortLinks = [
-  { key: 'git', value: 'https://github.com/matthewjamesboyle' },
-  { key: 'linkedin', value: 'https://www.linkedin.com/in/mattjamesboyle/' },
-  { key: 'twitter', value: 'https://twitter.com/MattJamesBoyle' },
-  { key: 'ukpf', value: 'https://reddit.com/r/ukpersonalfinance' },
+  { key: 'git', value: 'https://github.com/leogopal' },
+  { key: 'linkedin', value: 'https://www.linkedin.com/in/leogopal/' },
+  { key: 'twitter', value: 'https://twitter.com/leogopal' },
+  { key: 'ukpf', value: 'https://reddit.com/r/leogopal' },
 ]
 
 addEventListener('fetch', event => {
